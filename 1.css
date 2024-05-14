@@ -40,6 +40,8 @@ header{
     font-weight: 600px;
     letter-spacing: 1px;
     color: var(--bg-color);
+    font-family: "Lexend", sans-serif;
+    font-weight: 500;
 }
 .navbar{
     display: flex;
