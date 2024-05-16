@@ -449,6 +449,8 @@ svg{
     position: relative;
     width: 170px;
     /* flex-grow: 1; */
+    background: #1976d2;
+    
 }
 .tech_cards_sub h2{
     font-size: 20px;
